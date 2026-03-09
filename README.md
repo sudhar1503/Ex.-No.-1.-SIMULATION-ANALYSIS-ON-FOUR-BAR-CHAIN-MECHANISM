@@ -21,79 +21,79 @@
 ## PROCEDURE:
 
 
-## Step 1: Open the Virtual Lab
-###Open the Virtual Lab website and navigate to the Mechanics of Machines experiments.
+Step 1: Open the Virtual Lab
+Open the Virtual Lab website and navigate to the Mechanics of Machines experiments.
 
-## Step 2: Select the Required Experiments
-###From the list of experiments, select the following:
+ Step 2: Select the Required Experiments
+From the list of experiments, select the following:
 
-###- Position Analysis of Grashof Four Bar Mechanism  
-###- Velocity Analysis of Grashof Four Bar Mechanism  
-###- Acceleration Analysis of Grashof Four Bar Mechanism  
+- Position Analysis of Grashof Four Bar Mechanism
+-  Velocity Analysis of Grashof Four Bar Mechanism  
+-  Acceleration Analysis of Grashof Four Bar Mechanism  
 
-## Step 3: Open the Simulation Tab
-###Inside the experiment page, click on the **Simulation** tab to open the simulator.
+ Step 3: Open the Simulation Tab
+Inside the experiment page, click on the **Simulation** tab to open the simulator.
 
-## Step 4: Enter the Link Lengths
-###Enter the given link lengths in the variables section:
+ Step 4: Enter the Link Lengths
+Enter the given link lengths in the variables section:
 
-###- r1 (AD – fixed link) = 120 mm  
-###- r2 (AB – crank) = 30 mm  
-###- r3 (BC – coupler) = 120 mm  
-###- r4 (CD – rocker) = 60 mm  
+- r1 (AD – fixed link) = 120 mm
+- - r2 (AB – crank) = 30 mm  
+- r3 (BC – coupler) = 120 mm  
+- r4 (CD – rocker) = 60 mm  
 
 ## Step 5: Enter Angular Velocity
-###The crank speed is given as **100 rpm**. Convert it to **rad/s** using:
+The crank speed is given as **100 rpm**. Convert it to **rad/s** using:
 
-###ω = 2πN / 60
+ω = 2πN / 60
 
-###Substitute the values:
+Substitute the values:
 
-###ω₂ = 2 × π × 100 / 60  
-###ω₂ = **10.47 rad/s**
+ω₂ = 2 × π × 100 / 60  
+ω₂ = **10.47 rad/s**
 
-###Enter **10.47 rad/s** in the simulator.
+Enter **10.47 rad/s** in the simulator.
 
 ## Step 6: Run Position Analysis
-###Run the position analysis simulation.  
-###The configuration diagram of the four-bar mechanism will appear showing links **AB, BC, CD, and AD**.
+Run the position analysis simulation.  
+The configuration diagram of the four-bar mechanism will appear showing links **AB, BC, CD, and AD**.
 
 ## Step 7: Observe Link Angles
-###Observe the angles displayed by the simulator:
+Observe the angles displayed by the simulator:
 
-###- θ₂ (crank angle)  
-###- θ₃ (coupler angle)  
-###- θ₄ (rocker angle)
+- θ₂ (crank angle)
+- - θ₃ (coupler angle)  
+- θ₄ (rocker angle)
 
 ## Step 8: Perform Velocity Analysis
-## # Open the **Velocity Analysis** simulation.  
-### Enter the same link lengths and angular velocity.
-### Run the simulation to obtain the **velocity diagram**.
+ Open the **Velocity Analysis** simulation.  
+ Enter the same link lengths and angular velocity.
+ Run the simulation to obtain the **velocity diagram**.
 
 ## Step 9: Observe Velocity Results
-###The simulator displays velocity values such as:
+The simulator displays velocity values such as:
 
-###- Velocity of point B  
-###- Velocity of point C  
-###- Angular velocity of links BC and CD
+- Velocity of point B
+- - Velocity of point C  
+- Angular velocity of links BC and CD
 
 ## Step 10: Perform Acceleration Analysis
-###Open the **Acceleration Analysis** simulation and enter the same input values.
+Open the **Acceleration Analysis** simulation and enter the same input values.
 
-###Run the simulation to generate the **acceleration diagram**.
+Run the simulation to generate the **acceleration diagram**.
 
 ## Step 11: Observe Acceleration Results
-###Observe the acceleration values of the links and points from the results table.
+Observe the acceleration values of the links and points from the results table.
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
 
 ## Step 12: Capture Screenshots
-###Take screenshots of:
+Take screenshots of:
 
-###- Input variables page  
-###- Position analysis diagram  
-###- Velocity diagram and results  
-###- Acceleration diagram and results
+- Input variables page
+- - Position analysis diagram  
+- Velocity diagram and results  
+- Acceleration diagram and results
 
 ## Step 13: Upload to GitHub
 ### Upload the screenshots to the repository and display them in the README.md file.
