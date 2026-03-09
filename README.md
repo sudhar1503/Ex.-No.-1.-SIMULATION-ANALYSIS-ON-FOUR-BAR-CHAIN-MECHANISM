@@ -10,7 +10,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
 ## REQUIREMENTS:
-###  ●	Mech Analyzer software.
+###  ●	Virtual labs.
 ###  ●	Processor: Minimum 1.5 GHz
 ###  ●	RAM: Minimum 512 MB
 ###  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
